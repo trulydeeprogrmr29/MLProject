@@ -100,7 +100,7 @@ Deploying the model as an API using Flask / FastAPI
 
 Adding time-series features or satellite data for better accuracy
 
-Dashboard for interactive predictions
+Dashboard for making  interactive predictions
 
 
 📚 References & Learning Sources
